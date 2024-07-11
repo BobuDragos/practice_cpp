@@ -4,29 +4,6 @@
 using namespace std;
 
 
-/*
-
-divisibility problems
-
-
-numerology problems
-
-min max problems
-
-sorting problems
-
-searching problems
-
-counting problems
-
-combinatorial problems
-
-
-
-*/
-
-
-
 class Divisibility_Algorithm
 {
     public:
