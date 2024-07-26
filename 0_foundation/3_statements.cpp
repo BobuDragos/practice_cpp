@@ -104,6 +104,7 @@ int main(int argc, char const *argv[])
     for (int i : arr)
     {
         cout << i << " ";
+        //print idx
     }
 
     return 0;

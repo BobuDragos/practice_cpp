@@ -10,6 +10,11 @@ int main(int argc, char const *argv[])
     cout << a << ' ' << b << endl;
     cout << sizeof(a) << ' ' << sizeof(b) << endl;  // 4 bytes
 
+    unsigned int x = 10;
+    unsigned int y = 20;
+    cout << x << ' ' << y << endl;
+    cout << sizeof(x) << ' ' << sizeof(y) << endl;  // 4 bytes
+
     float c = 10.5;
     float d = 20.5;
     cout << c << ' ' << d << endl;
